@@ -1,0 +1,6 @@
+---
+
+### 📄 Файл 3: `requirements.txt`
+
+```text
+matplotlib
